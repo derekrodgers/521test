@@ -1,5 +1,7 @@
 # 521test
 
+remote changes
+
 ## Setting up a remote repo locally and linking with GitHub
 - `git init` creates local repo
 - `git remote add origin <remote URL>`  adds a remote repo called origin 
