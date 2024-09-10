@@ -10,3 +10,6 @@
 - `git restore <file>` restores specified file in the working directory to last commit
 - `git restore --staged <file>` restores 
 - `git diff <file>` shows delta btwn working directory and the staging area
+
+
+some garbage
