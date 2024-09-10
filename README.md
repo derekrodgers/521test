@@ -12,3 +12,5 @@
 - `git diff <file>` shows delta btwn working directory and the staging area
 
 some garbage
+
+REMOTE CHANGE 2
